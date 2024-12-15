@@ -7,3 +7,5 @@ numero = int(input("Digite um número de 0 a 7: "))
 nomes.append(outroNome)
 
 print(nomes[numero])
+
+numero = 1
